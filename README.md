@@ -26,7 +26,6 @@ Mes languages :
 <br />
 
 Statistiques :
-
 <br />
 <br />
 
