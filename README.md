@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Mes languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhem10&theme=radical)
+
+Statistiques :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhem10&show_icons=true&theme=radical)
+
+![Stats]([https://github-readme-stats.vercel.app/api?username=jayhem10&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/wakatime/?&USERNAME&layout=compact&&theme=default&link=https://www.github.com/jayhem10/))
+
+
