@@ -23,4 +23,4 @@ Mes languages :
 Statistiques :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhem10&show_icons=true&theme=radical)
 
-![Stats](https://github-readme-stats.vercel.app/api/wakatime/?&jayhem10&layout=compact&&theme=default&link=https://www.github.com/jayhem10/)
+![Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=jayhem10&layout=compact&&theme=default&link=https://www.github.com/jayhem10/)
