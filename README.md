@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on OpenYourEars
-- 🌱 I’m currently learning React Native && NextJs
+- 🌱 I’m currently learning React Native && NextJs && Nuxt
 
 <!--
 - 👯 I’m looking to collaborate on ...
