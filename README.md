@@ -29,16 +29,27 @@
 
 - 🎧 Founder & developer of **Memcard**
 - 📱 Focused on **Web & Mobile applications**
-- 🧠 I like clean architectures & maintainable code
-- ☁️ Comfortable with **Docker & Cloud environments**
+- 🧠 Clean architectures & maintainable code
+- ☁️ Docker & Cloud environments
 - 🤝 Open to collaborations on meaningful projects
+
+---
+
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jayhem10&theme=radical&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
 ## 📫 Contact
 
 - 💼 GitHub: [@jayhem10](https://github.com/jayhem10)
-- 🌐 Project: **Memcard** & **Vetflow**
+- 🌐 Projects: **Memcard** & **Vetflow**
 - 📬 Feel free to open an issue or discussion
 
 ---
