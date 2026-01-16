@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jayhem</h1>
-<h3 align="center">Frontend & Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
   🎧 Building <strong>Vetflow</strong> & <strong>Memcard</strong><br/>
@@ -32,18 +32,6 @@
 - 🧠 I like clean architectures & maintainable code
 - ☁️ Comfortable with **Docker & Cloud environments**
 - 🤝 Open to collaborations on meaningful projects
-
----
-
-## 🏆 GitHub Highlights
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jayhem10&theme=radical&no-frame=true&row=1&column=6)
-
----
-
-## 🔥 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jayhem10&theme=radical)
 
 ---
 
