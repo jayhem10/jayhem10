@@ -1,37 +1,60 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jayhem</h1>
+<h3 align="center">Frontend & Fullstack Developer</h3>
 
-<!--
-**jayhem10/jayhem10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎧 Building <strong>Vetflow</strong> & <strong>Memcard</strong><br/>
+  🌱 Learning <strong>React Native, Next.js & Nuxt</strong><br/>
+  🚀 Passionate about clean UI & scalable apps
+</p>
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on OpenYourEars
-- 🌱 I’m currently learning React Native && NextJs && Nuxt
+---
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br />
-Mes languages :
-<br />
-<br />
+## 🚀 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhem10&theme=radical)
+### 🧩 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-<br />
+### 🛠 Backend & Tools
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-Statistiques :
-<br />
-<br />
+---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhem10&show_icons=true&theme=radical)
+## 👨‍💻 About Me
 
-<br />
-<!--
-![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayhem10&layout=compact&theme=radical)
--->
+- 🎧 Founder & developer of **Memcard**
+- 📱 Focused on **Web & Mobile applications**
+- 🧠 I like clean architectures & maintainable code
+- ☁️ Comfortable with **Docker & Cloud environments**
+- 🤝 Open to collaborations on meaningful projects
+
+---
+
+## 🏆 GitHub Highlights
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jayhem10&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+## 🔥 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jayhem10&theme=radical)
+
+---
+
+## 📫 Contact
+
+- 💼 GitHub: [@jayhem10](https://github.com/jayhem10)
+- 🌐 Project: **Memcard** & **Vetflow**
+- 📬 Feel free to open an issue or discussion
+
+---
+
+<p align="center">
+  <i>“Code is not just code, it's a craft.”</i>
+</p>
