@@ -35,6 +35,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayhem10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Contact
 
 - 💼 GitHub: [@jayhem10](https://github.com/jayhem10)
